@@ -7,7 +7,7 @@ Study at Bangkok University
 I've been learning full stack things like - NodeJS - ReactJS - Database and data structure - I have a plan to learn about cloud , CI/CD soon
 
 * 🌍  I'm based in Pathumthani , Thailand
-* ✉️  You can contact me at [anucha.work7@gmail.com](mailto:anucha.work7@gmail.com)
+* ✉️  You can contact me at [anucha.work.7@gmail.com](mailto:anucha.work7@gmail.com)
 * 🧠  I'm learning Security and authentication things
 
 ### Skills
